@@ -1,893 +1,569 @@
 [
   {
-    "id": "26007010200",
+    "id": "10001",
     "category": "Collections saines",
     "productName": "Zero Syrup 320ml chocolate",
     "weight": "320 ml",
-    "packaging": "Tube",
-    "wholesalePrice": 4.95,
-    "stock": 2,
-    "consumerPrice": 14,
-    "upc": "5999076233090"
+    "stock": 2
   },
   {
-    "id": "26007010300",
+    "id": "10002",
     "category": "Collections saines",
     "productName": "Zero Syrup 320ml fraise",
     "weight": "320 ml",
-    "packaging": "Tube",
-    "wholesalePrice": 4.95,
-    "stock": 2,
-    "consumerPrice": 14,
-    "upc": "5999076233106"
+    "stock": 2
   },
   {
-    "id": "20001020240",
+    "id": "10003",
     "category": "Barres et boissons",
     "productName": "Go Energy Bar 32*40g orange avec chocolat noir",
     "weight": "40 g",
-    "packaging": "Carton",
-    "wholesalePrice": 28.8,
-    "stock": 64,
-    "consumerPrice": 2.6,
-    "upc": "5999076253883"
+    "stock": 64
   },
   {
-    "id": "20001020540",
+    "id": "10004",
     "category": "Barres et boissons",
     "productName": "Go Energy Bar 32*40g yaourt à la fraise",
     "weight": "40 g",
-    "packaging": "Carton",
-    "wholesalePrice": 28.8,
-    "stock": 64,
-    "consumerPrice": 2.6,
-    "upc": "5999076253890"
+    "stock": 64
   },
   {
-    "id": "20019010300",
+    "id": "10005",
     "category": "Barres et boissons",
     "productName": "Protein Bar 16*70g fraise",
     "weight": "70 g",
-    "packaging": "Carton",
-    "wholesalePrice": 26.4,
-    "stock": 16,
-    "consumerPrice": 4.5,
-    "upc": "5999076236657"
+    "stock": 16
   },
   {
-    "id": "10023020240",
+    "id": "10006",
     "category": "Protéines",
     "productName": "100% Pure Whey 1000g chocolate",
     "weight": "1000 g",
-    "packaging": "Sac",
-    "wholesalePrice": 28.95,
-    "stock": 5,
-    "consumerPrice": 81,
-    "upc": "5999076238163"
+    "stock": 5
   },
   {
-    "id": "10023020340",
+    "id": "10007",
     "category": "Protéines",
     "productName": "100% Pure Whey 1000g fraise",
     "weight": "1000 g",
-    "packaging": "Sac",
-    "wholesalePrice": 28.95,
-    "stock": 5,
-    "consumerPrice": 81,
-    "upc": "5999076238170"
+    "stock": 5
   },
   {
-    "id": "10023020140",
+    "id": "10008",
     "category": "Protéines",
     "productName": "100% Pure Whey 1000g vanille bourbon",
     "weight": "1000 g",
-    "packaging": "Sac",
-    "wholesalePrice": 28.95,
-    "stock": 5,
-    "consumerPrice": 81,
-    "upc": "5999076238156"
+    "stock": 5
   },
   {
-    "id": "10023010240",
+    "id": "10009",
     "category": "Protéines",
     "productName": "100% Pure Whey 2270g chocolate",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 55.95,
-    "stock": 5,
-    "consumerPrice": 157,
-    "upc": "5999076238002"
+    "stock": 5
   },
   {
-    "id": "10023010340",
+    "id": "10010",
     "category": "Protéines",
     "productName": "100% Pure Whey 2270g fraise",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 55.95,
-    "stock": 5,
-    "consumerPrice": 157,
-    "upc": "5999076238019"
+    "stock": 5
   },
   {
-    "id": "10023010140",
+    "id": "10011",
     "category": "Protéines",
     "productName": "100% Pure Whey 2270g vanille bourbon",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 55.95,
-    "stock": 5,
-    "consumerPrice": 157,
-    "upc": "5999076237999"
+    "stock": 5
   },
   {
-    "id": "10023060240",
+    "id": "10012",
     "category": "Protéines",
     "productName": "100% Pure Whey 4000g chocolate",
     "weight": "4000 g",
-    "packaging": "Seau",
-    "wholesalePrice": 94.95,
-    "stock": 2,
-    "consumerPrice": 266,
-    "upc": "5999076237944"
+    "stock": 2
   },
   {
-    "id": "10023060340",
+    "id": "10013",
     "category": "Protéines",
     "productName": "100% Pure Whey 4000g fraise",
     "weight": "4000 g",
-    "packaging": "Seau",
-    "wholesalePrice": 94.95,
-    "stock": 2,
-    "consumerPrice": 266,
-    "upc": "5999076237951"
+    "stock": 2
   },
   {
-    "id": "10023060140",
+    "id": "10014",
     "category": "Protéines",
     "productName": "100% Pure Whey 4000g vanille bourbon",
     "weight": "4000 g",
-    "packaging": "Seau",
-    "wholesalePrice": 94.95,
-    "stock": 2,
-    "consumerPrice": 266,
-    "upc": "5999076237937"
+    "stock": 2
   },
   {
-    "id": "10015010330",
+    "id": "10015",
     "category": "Protéines",
     "productName": "Beef Protein 1816g fraise",
     "weight": "1816 g",
-    "packaging": "Pot",
-    "wholesalePrice": 44.95,
-    "stock": 1,
-    "consumerPrice": 126,
-    "upc": "5999076223831"
+    "stock": 1
   },
   {
-    "id": "10019010530",
+    "id": "10016",
     "category": "Protéines",
     "productName": "Hydro Whey Zero 1816g chocolat",
     "weight": "1816 g",
-    "packaging": "Pot",
-    "wholesalePrice": 59.95,
-    "stock": 2,
-    "consumerPrice": 168,
-    "upc": "5999076220106"
+    "stock": 2
   },
   {
-    "id": "10002010240",
+    "id": "10017",
     "category": "Protéines",
     "productName": "Iso Whey Zero 2270g chocolat",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 65.95,
-    "stock": 2,
-    "consumerPrice": 185,
-    "upc": "5999076254910"
+    "stock": 2
   },
   {
-    "id": "10002010340",
+    "id": "10018",
     "category": "Protéines",
     "productName": "Iso Whey Zero 2270g fraise",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 65.95,
-    "stock": 2,
-    "consumerPrice": 185,
-    "upc": "5999076254927"
+    "stock": 2
   },
   {
-    "id": "10002010140",
+    "id": "10019",
     "category": "Protéines",
     "productName": "Iso Whey Zero 2270g vanille",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 65.95,
-    "stock": 2,
-    "consumerPrice": 185,
-    "upc": "5999076254903"
+    "stock": 2
   },
   {
-    "id": "10008030330",
+    "id": "10020",
     "category": "Protéines",
     "productName": "Protein Power 1000g sac de banane aux fraises",
     "weight": "1000 g",
-    "packaging": "Sac",
-    "wholesalePrice": 18.95,
-    "stock": 1,
-    "consumerPrice": 53,
-    "upc": "5999076227969"
+    "stock": 1
   },
   {
-    "id": "10008010330",
+    "id": "10021",
     "category": "Protéines",
     "productName": "Protein power 4000g fraise-banane",
     "weight": "4000 g",
-    "packaging": "Seau",
-    "wholesalePrice": 62.95,
-    "stock": 1,
-    "consumerPrice": 177,
-    "upc": "5999076223718"
+    "stock": 1
   },
   {
-    "id": "22006010900",
+    "id": "10022",
     "category": "Glucides",
     "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml fruits de bois",
     "weight": "1000 ml",
-    "packaging": "Pot",
-    "wholesalePrice": 16.45,
-    "stock": 1,
-    "consumerPrice": 46,
-    "upc": "5999076206490"
+    "stock": 1
   },
   {
-    "id": "22006011100",
+    "id": "10023",
     "category": "Glucides",
     "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml mojito",
     "weight": "1000 ml",
-    "packaging": "Pot",
-    "wholesalePrice": 16.45,
-    "stock": 1,
-    "consumerPrice": 46,
-    "upc": "5999076206483"
+    "stock": 1
   },
   {
-    "id": "22006010200",
+    "id": "10024",
     "category": "Glucides",
     "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml orange",
     "weight": "1000 ml",
-    "packaging": "Pot",
-    "wholesalePrice": 16.45,
-    "stock": 1,
-    "consumerPrice": 46,
-    "upc": "5999076206506"
+    "stock": 1
   },
   {
-    "id": "11001030630",
+    "id": "10025",
     "category": "Prise de masse",
     "productName": "Hyper Mass 1000g fraise",
     "weight": "1000 g",
-    "packaging": "Sac",
-    "wholesalePrice": 16.95,
-    "stock": 1,
-    "consumerPrice": 48,
-    "upc": "5999076232734"
+    "stock": 1
   },
   {
-    "id": "11001030130",
+    "id": "10026",
     "category": "Prise de masse",
     "productName": "Hyper Mass 1000g vanille",
     "weight": "1000 g",
-    "packaging": "Sac",
-    "wholesalePrice": 16.95,
-    "stock": 1,
-    "consumerPrice": 48,
-    "upc": "5999076224586"
+    "stock": 1
   },
   {
-    "id": "11001050230",
+    "id": "10027",
     "category": "Prise de masse",
     "productName": "Hyper Mass 2270g chocolat",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 37.95,
-    "stock": 1,
-    "consumerPrice": 106,
-    "upc": "5999076224517"
+    "stock": 1
   },
   {
-    "id": "11001050130",
+    "id": "10028",
     "category": "Prise de masse",
     "productName": "Hyper Mass 2270g vanille",
     "weight": "2270 g",
-    "packaging": "Pot",
-    "wholesalePrice": 37.95,
-    "stock": 2,
-    "consumerPrice": 106,
-    "upc": "5999076224562"
+    "stock": 2
   },
   {
-    "id": "11001020630",
+    "id": "10029",
     "category": "Prise de masse",
     "productName": "Hyper Mass 4000g fraise",
     "weight": "4000 g",
-    "packaging": "Pot",
-    "wholesalePrice": 54.95,
-    "stock": 2,
-    "consumerPrice": 155,
-    "upc": "5999076232697"
+    "stock": 2
   },
   {
-    "id": "12031020530",
+    "id": "10030",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO 360g orange",
     "weight": "360 g",
-    "packaging": "Pot",
-    "wholesalePrice": 15.95,
-    "stock": 2,
-    "consumerPrice": 45,
-    "upc": "5999076223435"
+    "stock": 2
   },
   {
-    "id": "12031020430",
+    "id": "10031",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO 360g pomme vert",
     "weight": "360 g",
-    "packaging": "Pot",
-    "wholesalePrice": 15.95,
-    "stock": 2,
-    "consumerPrice": 45,
-    "upc": "5999076223442"
+    "stock": 2
   },
   {
-    "id": "12031010830",
+    "id": "10032",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO 700g ananas-mangue",
     "weight": "700 g",
-    "packaging": "Pot",
-    "wholesalePrice": 29.95,
-    "stock": 2,
-    "consumerPrice": 84,
-    "upc": "5999076223459"
+    "stock": 2
   },
   {
-    "id": "12031010430",
+    "id": "10033",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO 700g pomme vert",
     "weight": "700 g",
-    "packaging": "Pot",
-    "wholesalePrice": 29.95,
-    "stock": 2,
-    "consumerPrice": 84,
-    "upc": "5999076223503"
+    "stock": 2
   },
   {
-    "id": "13005020030",
+    "id": "10034",
     "category": "Créatine",
     "productName": "Creatine Monohydrate 500g boite",
     "weight": "500 g",
-    "packaging": "Pot",
-    "wholesalePrice": 22.45,
-    "stock": 1,
-    "consumerPrice": 63,
-    "upc": "5999076227419"
+    "stock": 1
   },
   {
-    "id": "13008020031",
+    "id": "10035",
     "category": "Créatine",
     "productName": "Creatine PH-X 90 caps",
     "weight": "90 caps",
-    "packaging": "Pot",
-    "wholesalePrice": 8.45,
-    "stock": 1,
-    "consumerPrice": 24,
-    "upc": "5999076234233"
+    "stock": 1
   },
   {
-    "id": "13008010031",
+    "id": "10036",
     "category": "Créatine",
     "productName": "Creatine PH-X 210 caps",
     "weight": "210 caps",
-    "packaging": "Pot",
-    "wholesalePrice": 14.95,
-    "stock": 1,
-    "consumerPrice": 42,
-    "upc": "5999076234226"
+    "stock": 1
   },
   {
-    "id": "13019010000",
+    "id": "10037",
     "category": "Créatine",
     "productName": "Mega Creatine 120 caps",
     "weight": "120 caps",
-    "packaging": "Pot",
-    "wholesalePrice": 16.45,
-    "stock": 2,
-    "consumerPrice": 46,
-    "upc": "5999076259182"
+    "stock": 2
   },
   {
-    "id": "15015010543",
+    "id": "10038",
     "category": "PWO (Pré-Workout)",
     "productName": "Black Blood CAF+ 300g myrtilles",
     "weight": "300 g",
-    "packaging": "Pot",
-    "wholesalePrice": 19.95,
-    "stock": 2,
-    "consumerPrice": 56,
-    "upc": "5999076253678"
+    "stock": 2
   },
   {
-    "id": "15015010643",
+    "id": "10039",
     "category": "PWO (Pré-Workout)",
     "productName": "Black Blood CAF+ 300g raisins rouges",
     "weight": "300 g",
-    "packaging": "Pot",
-    "wholesalePrice": 19.95,
-    "stock": 2,
-    "consumerPrice": 56,
-    "upc": "5999076253685"
+    "stock": 2
   },
   {
-    "id": "15019030243",
+    "id": "10040",
     "category": "PWO (Pré-Workout)",
     "productName": "Black Blood NOX+ 340g Fruits tropicaux",
     "weight": "340 g",
-    "packaging": "Pot",
-    "wholesalePrice": 19.95,
-    "stock": 2,
-    "consumerPrice": 56,
-    "upc": "5999076253760"
+    "stock": 2
   },
   {
-    "id": "14004010100",
+    "id": "10041",
     "category": "Bruleur de graisse",
     "productName": "L-carnitine 100.000 Liquid 500ml cerise",
     "weight": "500 ml",
-    "packaging": "Pot",
-    "wholesalePrice": 19.95,
-    "stock": 2,
-    "consumerPrice": 56,
-    "upc": "5999076204489"
+    "stock": 2
   },
   {
-    "id": "14004010200",
+    "id": "10042",
     "category": "Bruleur de graisse",
     "productName": "L-carnitine 100.000 Liquid 500ml pomme",
     "weight": "500 ml",
-    "packaging": "Pot",
-    "wholesalePrice": 19.95,
-    "stock": 2,
-    "consumerPrice": 56,
-    "upc": "5999076204472"
+    "stock": 2
   },
   {
-    "id": "14007010100",
+    "id": "10043",
     "category": "Bruleur de graisse",
     "productName": "L-Carnitine 35.000mg + Chrome concentrate 500ml orange",
     "weight": "500 ml",
-    "packaging": "Pot",
-    "wholesalePrice": 10.95,
-    "stock": 2,
-    "consumerPrice": 31,
-    "upc": "5999500532447"
+    "stock": 2
   },
   {
-    "id": "14012010031",
+    "id": "10044",
     "category": "Bruleur de graisse",
     "productName": "L-Carnitine + Chrome 60 caps (for her)",
     "weight": "60 caps",
-    "packaging": "Pot",
-    "wholesalePrice": 8.95,
-    "stock": 2,
-    "consumerPrice": 25,
-    "upc": "5999076234325"
+    "stock": 2
   },
   {
-    "id": "16008010100",
+    "id": "10045",
     "category": "Bruleur de graisse",
     "productName": "Thermo Drine Liquid 500ml pamplemousse",
     "weight": "500 ml",
-    "packaging": "Pot",
-    "wholesalePrice": 10.45,
-    "stock": 2,
-    "consumerPrice": 30,
-    "upc": "4018209101011"
+    "stock": 2
   },
   {
-    "id": "17008020000",
+    "id": "10046",
     "category": "TST Boosters",
     "productName": "Tribooster 120 tabs",
     "weight": "120 tbl",
-    "packaging": "Pot",
-    "wholesalePrice": 18.45,
-    "stock": 2,
-    "consumerPrice": 52,
-    "upc": "5999076209330"
+    "stock": 2
   },
   {
-    "id": "17009010000",
+    "id": "10047",
     "category": "TST Boosters",
     "productName": "Tribulus Maximus 1500mg 90 tbl",
     "weight": "90 tbl",
-    "packaging": "Pot",
-    "wholesalePrice": 12.45,
-    "stock": 2,
-    "consumerPrice": 35,
-    "upc": "5999500532522"
+    "stock": 2
   },
   {
-    "id": "17017010241",
+    "id": "10048",
     "category": "TST Boosters",
     "productName": "TST+GH 300g orange",
     "weight": "300 g",
-    "packaging": "Pot",
-    "wholesalePrice": 18.95,
-    "stock": 2,
-    "consumerPrice": 53,
-    "upc": "5999076251315"
+    "stock": 2
   },
   {
-    "id": "18008010440",
+    "id": "10049",
     "category": "Protection des articulations",
     "productName": "Arthro Forte 340g black currant",
     "weight": "340 g",
-    "packaging": "Pot",
-    "wholesalePrice": 29.95,
-    "stock": 2,
-    "consumerPrice": 84,
-    "upc": "5999076244768"
+    "stock": 2
   },
   {
-    "id": "18008010240",
+    "id": "10050",
     "category": "Protection des articulations",
     "productName": "Arthro Forte 340g tropical fruit",
     "weight": "340 g",
-    "packaging": "Pot",
-    "wholesalePrice": 29.95,
-    "stock": 2,
-    "consumerPrice": 84,
-    "upc": "5999076244751"
+    "stock": 2
   },
   {
-    "id": "18007010040",
+    "id": "10051",
     "category": "Protection des articulations",
     "productName": "Chondroitin Glucosamine 60 caps",
     "weight": "60 caps",
-    "packaging": "Pot",
-    "wholesalePrice": 6.95,
-    "stock": 2,
-    "consumerPrice": 20,
-    "upc": "5999076245642"
+    "stock": 2
   },
   {
-    "id": "19016010030",
+    "id": "10052",
     "category": "Protection des articulations",
     "productName": "MSM + Vitamin C 150g",
     "weight": "150 g",
-    "packaging": "Pot",
-    "wholesalePrice": 6.45,
-    "stock": 2,
-    "consumerPrice": 19,
-    "upc": "5999076227013"
+    "stock": 2
   },
   {
-    "id": "19050010143",
+    "id": "10053",
     "category": "Collagène",
     "productName": "Clear Collagen Professional 350g Thé glacé aux p?ches",
     "weight": "350 g",
-    "packaging": "Boite cylindrique",
-    "wholesalePrice": 18.45,
-    "stock": 1,
-    "consumerPrice": 52,
-    "upc": "5999076254613"
+    "stock": 1
   },
   {
-    "id": "19050010243",
+    "id": "10054",
     "category": "Collagène",
     "productName": "Clear Collagen Professional 350g rose-Grenade",
     "weight": "350 g",
-    "packaging": "Boite cylindrique",
-    "wholesalePrice": 18.45,
-    "stock": 1,
-    "consumerPrice": 52,
-    "upc": "5999076254620"
+    "stock": 1
   },
   {
-    "id": "19017010040",
+    "id": "10055",
     "category": "Vitamins",
     "productName": "Multi Mineral Complex 100 tbl",
     "weight": "100 tbl",
-    "packaging": "Pot",
-    "wholesalePrice": 7.45,
-    "stock": 2,
-    "consumerPrice": 21,
-    "upc": "5999076248223"
+    "stock": 2
   },
   {
-    "id": "19068010100",
+    "id": "10056",
     "category": "Vitamins",
     "productName": "Multivitamin effervescent tablets - orange",
     "weight": "20 tbl",
-    "packaging": "Tube",
-    "wholesalePrice": 3.45,
-    "stock": 2,
-    "consumerPrice": 10,
-    "upc": "5999076236541"
+    "stock": 2
   },
   {
-    "id": "19036010031",
+    "id": "10057",
     "category": "Vitamins",
     "productName": "Vitamin C 1000 250 tbl",
     "weight": "250 tbl",
-    "packaging": "Pot",
-    "wholesalePrice": 14.45,
-    "stock": 2,
-    "consumerPrice": 40,
-    "upc": "5999076236213"
+    "stock": 2
   },
   {
-    "id": "26007010301",
+    "id": "10058",
     "category": "Collections saines",
     "productName": "Rice Pudding 1000g",
     "weight": "100g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 2,
-    "consumerPrice": 28,
-    "upc": "UNKNOWN"
+    "stock": 2
   },
   {
-    "id": "26007010302",
+    "id": "10059",
     "category": "Protéines",
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - chocolat-beurre de noisette",
     "weight": "25g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010303",
+    "id": "10060",
     "category": "Protéines",
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - fraise",
     "weight": "25g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010304",
+    "id": "10061",
     "category": "Protéines",
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - chocolate",
     "weight": "25g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010305",
+    "id": "10062",
     "category": "Protéines",
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - vanille bourbon",
     "weight": "25g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "10019010530",
+    "id": "10063",
     "category": "Protéines",
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - black biscuit",
     "weight": "25g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "12031020531",
+    "id": "10064",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - pasteque",
     "weight": "9g",
-    "packaging": "Sac",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "12031020532",
+    "id": "10065",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - pêche thé glacé",
     "weight": "9g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "12031020533",
+    "id": "10066",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - ananas-mangue",
     "weight": "9g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "12031020534",
+    "id": "10067",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - orange",
     "weight": "9g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "12031020535",
+    "id": "10068",
     "category": "Acides Aminés",
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - citron thé glacé",
     "weight": "9g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010306",
+    "id": "10069",
     "category": "Barres et boissons",
     "productName": "Zero Bar protéine bar - 50 g",
     "weight": "50g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 20,
-    "consumerPrice": 3.5,
-    "upc": "UNKNOWN"
+    "stock": 20
   },
   {
-    "id": "20001020240",
+    "id": "10070",
     "category": "Barres et boissons",
     "productName": "Barre protéinée Protein Dessert Bar - 50g",
     "weight": "50g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 20,
-    "consumerPrice": 3.5,
-    "upc": "UNKNOWN"
+    "stock": 20
   },
   {
-    "id": "20001020240",
+    "id": "10071",
     "category": "Barres et boissons",
     "productName": "OAT & Nuts - 70g",
     "weight": "70g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 20,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 20
   },
   {
-    "id": "26007010307",
+    "id": "10072",
     "category": "Shakers",
     "productName": "Wave Shaker - 600 ml - vert",
     "weight": "",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 6,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010308",
+    "id": "10073",
     "category": "Shakers",
     "productName": "Wave Shaker - 600 ml - cyan",
     "weight": "",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 6,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010309",
+    "id": "10074",
     "category": "Shakers",
     "productName": "Wave Shaker - 600 ml - noir",
     "weight": "",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 6,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010310",
+    "id": "10075",
     "category": "Protéines",
     "productName": "100% Pure Whey 28g - vanille",
     "weight": "28g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010311",
+    "id": "10076",
     "category": "Protéines",
     "productName": "100% Pure Whey 28g - chocolat",
     "weight": "28g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010312",
+    "id": "10077",
     "category": "Protéines",
     "productName": "100% Pure Whey 28g - fraise",
     "weight": "28g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010313",
+    "id": "10078",
     "category": "Protéines",
     "productName": "100% Pure Whey 28g - pistache",
     "weight": "28g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "26007010314",
+    "id": "10079",
     "category": "Protéines",
     "productName": "100% Pure Whey 28g - black biscuit",
     "weight": "28g",
-    "packaging": "UNKNOWN",
-    "wholesalePrice": "UNKNOWN",
-    "stock": 10,
-    "consumerPrice": 3,
-    "upc": "UNKNOWN"
+    "stock": 10
   },
   {
-    "id": "20019010200",
+    "id": "10080",
     "category": "Barres et boissons",
     "productName": "Protein Bar 16*70g double chocolat",
     "weight": "70 g",
-    "packaging": "Carton",
-    "wholesalePrice": 26.4,
-    "stock": 4,
-    "consumerPrice": 105.6,
-    "upc": "5999076236640"
+    "stock": 4
   },
   {
-    "id": "24080200",
+    "id": "10081",
     "category": "Shakers",
     "productName": "Shaker Biotech Wave+ Compact 500ml (+150ml) bleu",
     "weight": "500   150 ml",
-    "packaging": null,
-    "wholesalePrice": 2.95,
-    "stock": 1,
-    "consumerPrice": 2.95,
-    "upc": "5999076220687"
+    "stock": 1
   }
 ]
