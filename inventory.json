@@ -546,7 +546,7 @@
   {
     "id": "10069",
     "category": "Barres et boissons",
-    "productName": "Zero Bar protéine bar - 50 g",
+    "productName": "Zero Bar protéine bar - 50 g - double chocolate",
     "weight": "50g",
     "consumerPrice": 3.5,
     "stock": 20
@@ -554,7 +554,7 @@
   {
     "id": "10070",
     "category": "Barres et boissons",
-    "productName": "Barre protéinée Protein Dessert Bar - 50g",
+    "productName": "Barre protéinée Protein Dessert Bar - 50g - black biscuit",
     "weight": "50g",
     "consumerPrice": 3.5,
     "stock": 20
@@ -562,7 +562,7 @@
   {
     "id": "10071",
     "category": "Barres et boissons",
-    "productName": "OAT & Nuts - 70g",
+    "productName": "OAT & Nuts - 70g - noix de pecan",
     "weight": "70g",
     "consumerPrice": 3,
     "stock": 20
