@@ -5,7 +5,8 @@
     "productName": "Zero Syrup 320ml chocolate",
     "weight": "320 ml",
     "consumerPrice": 14,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10002",
@@ -13,7 +14,8 @@
     "productName": "Zero Syrup 320ml fraise",
     "weight": "320 ml",
     "consumerPrice": 14,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10003",
@@ -21,7 +23,8 @@
     "productName": "Go Energy Bar 32*40g orange avec chocolat noir",
     "weight": "40 g",
     "consumerPrice": 2.6,
-    "stock": 64
+    "stock": 64,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10004",
@@ -29,7 +32,8 @@
     "productName": "Go Energy Bar 32*40g yaourt à la fraise",
     "weight": "40 g",
     "consumerPrice": 2.6,
-    "stock": 64
+    "stock": 64,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10005",
@@ -37,7 +41,8 @@
     "productName": "Protein Bar 16*70g fraise",
     "weight": "70 g",
     "consumerPrice": 4.5,
-    "stock": 64
+    "stock": 64,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10006",
@@ -45,7 +50,8 @@
     "productName": "100% Pure Whey 1000g chocolate",
     "weight": "1000 g",
     "consumerPrice": 81,
-    "stock": 5
+    "stock": 5,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10007",
@@ -53,7 +59,8 @@
     "productName": "100% Pure Whey 1000g fraise",
     "weight": "1000 g",
     "consumerPrice": 81,
-    "stock": 5
+    "stock": 5,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10008",
@@ -61,7 +68,8 @@
     "productName": "100% Pure Whey 1000g vanille bourbon",
     "weight": "1000 g",
     "consumerPrice": 81,
-    "stock": 5
+    "stock": 5,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10009",
@@ -69,7 +77,8 @@
     "productName": "100% Pure Whey 2270g chocolate",
     "weight": "2270 g",
     "consumerPrice": 157,
-    "stock": 5
+    "stock": 5,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10010",
@@ -77,7 +86,8 @@
     "productName": "100% Pure Whey 2270g fraise",
     "weight": "2270 g",
     "consumerPrice": 157,
-    "stock": 5
+    "stock": 5,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10011",
@@ -85,7 +95,8 @@
     "productName": "100% Pure Whey 2270g vanille bourbon",
     "weight": "2270 g",
     "consumerPrice": 157,
-    "stock": 5
+    "stock": 5,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10012",
@@ -93,7 +104,8 @@
     "productName": "100% Pure Whey 4000g chocolate",
     "weight": "4000 g",
     "consumerPrice": 266,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10013",
@@ -101,7 +113,8 @@
     "productName": "100% Pure Whey 4000g fraise",
     "weight": "4000 g",
     "consumerPrice": 266,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10014",
@@ -109,7 +122,8 @@
     "productName": "100% Pure Whey 4000g vanille bourbon",
     "weight": "4000 g",
     "consumerPrice": 266,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10015",
@@ -117,7 +131,8 @@
     "productName": "Beef Protein 1816g fraise",
     "weight": "1816 g",
     "consumerPrice": 126,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10016",
@@ -125,7 +140,8 @@
     "productName": "Hydro Whey Zero 1816g chocolat",
     "weight": "1816 g",
     "consumerPrice": 168,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10017",
@@ -133,7 +149,8 @@
     "productName": "Iso Whey Zero 2270g chocolat",
     "weight": "2270 g",
     "consumerPrice": 185,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10018",
@@ -141,7 +158,8 @@
     "productName": "Iso Whey Zero 2270g fraise",
     "weight": "2270 g",
     "consumerPrice": 185,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10019",
@@ -149,7 +167,8 @@
     "productName": "Iso Whey Zero 2270g vanille",
     "weight": "2270 g",
     "consumerPrice": 185,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10020",
@@ -157,7 +176,8 @@
     "productName": "Protein Power 1000g sac de banane aux fraises",
     "weight": "1000 g",
     "consumerPrice": 53,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10021",
@@ -165,7 +185,8 @@
     "productName": "Protein power 4000g fraise-banane",
     "weight": "4000 g",
     "consumerPrice": 177,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10022",
@@ -173,7 +194,8 @@
     "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml fruits de bois",
     "weight": "1000 ml",
     "consumerPrice": 46,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10023",
@@ -181,7 +203,8 @@
     "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml mojito",
     "weight": "1000 ml",
     "consumerPrice": 46,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10024",
@@ -189,7 +212,8 @@
     "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml orange",
     "weight": "1000 ml",
     "consumerPrice": 46,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10025",
@@ -197,7 +221,8 @@
     "productName": "Hyper Mass 1000g fraise",
     "weight": "1000 g",
     "consumerPrice": 48,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10026",
@@ -205,7 +230,8 @@
     "productName": "Hyper Mass 1000g vanille",
     "weight": "1000 g",
     "consumerPrice": 48,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10027",
@@ -213,7 +239,8 @@
     "productName": "Hyper Mass 2270g chocolat",
     "weight": "2270 g",
     "consumerPrice": 106,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10028",
@@ -221,7 +248,8 @@
     "productName": "Hyper Mass 2270g vanille",
     "weight": "2270 g",
     "consumerPrice": 106,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10029",
@@ -229,7 +257,8 @@
     "productName": "Hyper Mass 4000g fraise",
     "weight": "4000 g",
     "consumerPrice": 155,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10030",
@@ -237,7 +266,8 @@
     "productName": "BCAA ZERO 360g orange",
     "weight": "360 g",
     "consumerPrice": 45,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10031",
@@ -245,7 +275,8 @@
     "productName": "BCAA ZERO 360g pomme vert",
     "weight": "360 g",
     "consumerPrice": 45,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10032",
@@ -253,7 +284,8 @@
     "productName": "BCAA ZERO 700g ananas-mangue",
     "weight": "700 g",
     "consumerPrice": 84,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10033",
@@ -261,7 +293,8 @@
     "productName": "BCAA ZERO 700g pomme vert",
     "weight": "700 g",
     "consumerPrice": 84,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10034",
@@ -269,7 +302,8 @@
     "productName": "Creatine Monohydrate 500g boite",
     "weight": "500 g",
     "consumerPrice": 63,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10035",
@@ -277,7 +311,8 @@
     "productName": "Creatine PH-X 90 caps",
     "weight": "90 caps",
     "consumerPrice": 24,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10036",
@@ -285,7 +320,8 @@
     "productName": "Creatine PH-X 210 caps",
     "weight": "210 caps",
     "consumerPrice": 42,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10037",
@@ -293,7 +329,8 @@
     "productName": "Mega Creatine 120 caps",
     "weight": "120 caps",
     "consumerPrice": 46,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10038",
@@ -301,7 +338,8 @@
     "productName": "Black Blood CAF+ 300g myrtilles",
     "weight": "300 g",
     "consumerPrice": 56,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10039",
@@ -309,7 +347,8 @@
     "productName": "Black Blood CAF+ 300g raisins rouges",
     "weight": "300 g",
     "consumerPrice": 56,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10040",
@@ -317,7 +356,8 @@
     "productName": "Black Blood NOX+ 340g Fruits tropicaux",
     "weight": "340 g",
     "consumerPrice": 56,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10041",
@@ -325,7 +365,8 @@
     "productName": "L-carnitine 100.000 Liquid 500ml cerise",
     "weight": "500 ml",
     "consumerPrice": 56,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10042",
@@ -333,7 +374,8 @@
     "productName": "L-carnitine 100.000 Liquid 500ml pomme",
     "weight": "500 ml",
     "consumerPrice": 56,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10043",
@@ -341,7 +383,8 @@
     "productName": "L-Carnitine 35.000mg + Chrome concentrate 500ml orange",
     "weight": "500 ml",
     "consumerPrice": 31,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10044",
@@ -349,7 +392,8 @@
     "productName": "L-Carnitine + Chrome 60 caps (for her)",
     "weight": "60 caps",
     "consumerPrice": 25,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10045",
@@ -357,7 +401,8 @@
     "productName": "Thermo Drine Liquid 500ml pamplemousse",
     "weight": "500 ml",
     "consumerPrice": 30,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10046",
@@ -365,7 +410,8 @@
     "productName": "Tribooster 120 tabs",
     "weight": "120 tbl",
     "consumerPrice": 52,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10047",
@@ -373,7 +419,8 @@
     "productName": "Tribulus Maximus 1500mg 90 tbl",
     "weight": "90 tbl",
     "consumerPrice": 35,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10048",
@@ -381,7 +428,8 @@
     "productName": "TST+GH 300g orange",
     "weight": "300 g",
     "consumerPrice": 53,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10049",
@@ -389,7 +437,8 @@
     "productName": "Arthro Forte 340g black currant",
     "weight": "340 g",
     "consumerPrice": 84,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10050",
@@ -397,7 +446,8 @@
     "productName": "Arthro Forte 340g tropical fruit",
     "weight": "340 g",
     "consumerPrice": 84,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10051",
@@ -405,7 +455,8 @@
     "productName": "Chondroitin Glucosamine 60 caps",
     "weight": "60 caps",
     "consumerPrice": 20,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10052",
@@ -413,7 +464,8 @@
     "productName": "MSM + Vitamin C 150g",
     "weight": "150 g",
     "consumerPrice": 19,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10053",
@@ -421,7 +473,8 @@
     "productName": "Clear Collagen Professional 350g Thé glacé aux peches",
     "weight": "350 g",
     "consumerPrice": 52,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10054",
@@ -429,7 +482,8 @@
     "productName": "Clear Collagen Professional 350g rose-Grenade",
     "weight": "350 g",
     "consumerPrice": 52,
-    "stock": 1
+    "stock": 1,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10055",
@@ -437,7 +491,8 @@
     "productName": "Multi Mineral Complex 100 tbl",
     "weight": "100 tbl",
     "consumerPrice": 21,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10056",
@@ -445,7 +500,8 @@
     "productName": "Multivitamin effervescent tablets - orange",
     "weight": "20 tbl",
     "consumerPrice": 10,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10057",
@@ -453,7 +509,8 @@
     "productName": "Vitamin C 1000 250 tbl",
     "weight": "250 tbl",
     "consumerPrice": 40,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10058",
@@ -461,7 +518,8 @@
     "productName": "Rice Pudding 1000g",
     "weight": "100g",
     "consumerPrice": 28,
-    "stock": 2
+    "stock": 2,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10059",
@@ -469,7 +527,8 @@
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - chocolat-beurre de noisette",
     "weight": "25g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10060",
@@ -477,7 +536,8 @@
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - fraise",
     "weight": "25g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10061",
@@ -485,7 +545,8 @@
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - chocolate",
     "weight": "25g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10062",
@@ -493,7 +554,8 @@
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - vanille bourbon",
     "weight": "25g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10063",
@@ -501,7 +563,8 @@
     "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - black biscuit",
     "weight": "25g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10064",
@@ -509,7 +572,8 @@
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - pasteque",
     "weight": "9g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10065",
@@ -517,7 +581,8 @@
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - pêche thé glacé",
     "weight": "9g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10066",
@@ -525,7 +590,8 @@
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - ananas-mangue",
     "weight": "9g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10067",
@@ -533,7 +599,8 @@
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - orange",
     "weight": "9g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10068",
@@ -541,7 +608,8 @@
     "productName": "BCAA ZERO poudre d'acide aminé - 9 g - citron thé glacé",
     "weight": "9g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10069",
@@ -549,7 +617,8 @@
     "productName": "Zero Bar protéine bar - 50 g - double chocolate",
     "weight": "50g",
     "consumerPrice": 3.5,
-    "stock": 20
+    "stock": 20,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10070",
@@ -557,7 +626,8 @@
     "productName": "Barre protéinée Protein Dessert Bar - 50g - black biscuit",
     "weight": "50g",
     "consumerPrice": 3.5,
-    "stock": 20
+    "stock": 20,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10071",
@@ -565,7 +635,8 @@
     "productName": "OAT & Nuts - 70g - noix de pecan",
     "weight": "70g",
     "consumerPrice": 3,
-    "stock": 20
+    "stock": 20,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10072",
@@ -573,7 +644,8 @@
     "productName": "Wave Shaker - 600 ml - vert",
     "weight": "",
     "consumerPrice": 6,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10073",
@@ -581,7 +653,8 @@
     "productName": "Wave Shaker - 600 ml - cyan",
     "weight": "",
     "consumerPrice": 6,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10074",
@@ -589,7 +662,8 @@
     "productName": "Wave Shaker - 600 ml - noir",
     "weight": "",
     "consumerPrice": 6,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10075",
@@ -597,7 +671,8 @@
     "productName": "100% Pure Whey 28g - vanille",
     "weight": "28g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10076",
@@ -605,7 +680,8 @@
     "productName": "100% Pure Whey 28g - chocolat",
     "weight": "28g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10077",
@@ -613,7 +689,8 @@
     "productName": "100% Pure Whey 28g - fraise",
     "weight": "28g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10078",
@@ -621,7 +698,8 @@
     "productName": "100% Pure Whey 28g - pistache",
     "weight": "28g",
     "consumerPrice": 3,
-    "stock": 0
+    "stock": 0,
+    "description": "ide kell irni a leirast"
   },
   {
     "id": "10079",
@@ -629,6 +707,7 @@
     "productName": "100% Pure Whey 28g - black biscuit",
     "weight": "28g",
     "consumerPrice": 3,
-    "stock": 10
+    "stock": 10,
+    "description": "ide kell irni a leirast"
   }
 ]
