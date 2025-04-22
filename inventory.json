@@ -20,7 +20,7 @@
   {
     "id": "10003",
     "category": "Barres et boissons",
-    "productName": "Go Energy Bar 32*40g orange avec chocolat noir",
+    "productName": "Go Energy Bar 40g orange avec chocolat noir",
     "weight": "40 g",
     "consumerPrice": 2.6,
     "stock": 64,
@@ -29,7 +29,7 @@
   {
     "id": "10004",
     "category": "Barres et boissons",
-    "productName": "Go Energy Bar 32*40g yaourt à la fraise",
+    "productName": "Go Energy Bar 40g yaourt à la fraise",
     "weight": "40 g",
     "consumerPrice": 2.6,
     "stock": 64,
@@ -38,7 +38,7 @@
   {
     "id": "10005",
     "category": "Barres et boissons",
-    "productName": "Protein Bar 16*70g fraise",
+    "productName": "Protein Bar 70g fraise",
     "weight": "70 g",
     "consumerPrice": 4.5,
     "stock": 64,
