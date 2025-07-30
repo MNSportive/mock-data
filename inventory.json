@@ -277,7 +277,7 @@
   {
     "id": "10025",
     "category": "Prise de masse",
-    "productName": "Hyper Mass 1000g fraise",
+    "productName": "Hyper Mass - fraise",
     "weight": "1000 g",
     "consumerPrice": 48,
     "stock": 0,
@@ -288,7 +288,7 @@
   {
     "id": "10026",
     "category": "Prise de masse",
-    "productName": "Hyper Mass 1000g vanille",
+    "productName": "Hyper Mass - vanille",
     "weight": "1000 g",
     "consumerPrice": 48,
     "stock": 0,
@@ -299,7 +299,7 @@
   {
     "id": "10027",
     "category": "Prise de masse",
-    "productName": "Hyper Mass 2270g chocolat",
+    "productName": "Hyper Mass - chocolat",
     "weight": "2270 g",
     "consumerPrice": 106,
     "stock": 2,
@@ -310,7 +310,7 @@
   {
     "id": "10028",
     "category": "Prise de masse",
-    "productName": "Hyper Mass 2270g vanille",
+    "productName": "Hyper Mass - vanille",
     "weight": "2270 g",
     "consumerPrice": 106,
     "stock": 1,
@@ -321,7 +321,7 @@
   {
     "id": "10029",
     "category": "Prise de masse",
-    "productName": "Hyper Mass 4000g fraise",
+    "productName": "Hyper Mass - fraise",
     "weight": "4000 g",
     "consumerPrice": 155,
     "stock": 0,
@@ -332,7 +332,7 @@
   {
     "id": "10030",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO 360g orange",
+    "productName": "BCAA ZERO - orange",
     "weight": "360 g",
     "consumerPrice": 45,
     "stock": 1,
@@ -343,7 +343,7 @@
   {
     "id": "10031",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO 360g pomme vert",
+    "productName": "BCAA ZERO - pomme vert",
     "weight": "360 g",
     "consumerPrice": 45,
     "stock": 2,
@@ -354,7 +354,7 @@
   {
     "id": "10032",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO 700g ananas-mangue",
+    "productName": "BCAA ZERO - ananas-mangue",
     "weight": "700 g",
     "consumerPrice": 84,
     "stock": 2,
@@ -365,7 +365,7 @@
   {
     "id": "10033",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO 700g pomme vert",
+    "productName": "BCAA ZERO - pomme vert",
     "weight": "700 g",
     "consumerPrice": 84,
     "stock": 2,
@@ -376,7 +376,7 @@
   {
     "id": "10034",
     "category": "Créatine",
-    "productName": "Creatine Monohydrate 500g boite",
+    "productName": "Creatine Monohydrate",
     "weight": "500 g",
     "consumerPrice": 63,
     "stock": 1,
@@ -387,7 +387,7 @@
   {
     "id": "10035",
     "category": "Créatine",
-    "productName": "Creatine PH-X 90 caps",
+    "productName": "Creatine PH-X",
     "weight": "90 caps",
     "consumerPrice": 24,
     "stock": 8,
@@ -398,7 +398,7 @@
   {
     "id": "10036",
     "category": "Créatine",
-    "productName": "Creatine PH-X 210 caps",
+    "productName": "Creatine PH-X",
     "weight": "210 caps",
     "consumerPrice": 42,
     "stock": 10,
@@ -409,7 +409,7 @@
   {
     "id": "10037",
     "category": "Créatine",
-    "productName": "Mega Creatine 120 caps",
+    "productName": "Mega Creatine",
     "weight": "120 caps",
     "consumerPrice": 46,
     "stock": 0,
@@ -420,7 +420,7 @@
   {
     "id": "10038",
     "category": "PWO (Pré-Workout)",
-    "productName": "Black Blood CAF+ 300g myrtilles",
+    "productName": "Black Blood CAF+ - myrtilles",
     "weight": "300 g",
     "consumerPrice": 56,
     "stock": 2,
@@ -431,7 +431,7 @@
   {
     "id": "10039",
     "category": "PWO (Pré-Workout)",
-    "productName": "Black Blood CAF+ 300g raisins rouges",
+    "productName": "Black Blood CAF+ - raisins rouges",
     "weight": "300 g",
     "consumerPrice": 56,
     "stock": 1,
@@ -442,7 +442,7 @@
   {
     "id": "10040",
     "category": "PWO (Pré-Workout)",
-    "productName": "Black Blood NOX+ 340g Fruits tropicaux",
+    "productName": "Black Blood NOX+ - Fruits tropicaux",
     "weight": "340 g",
     "consumerPrice": 56,
     "stock": 0,
@@ -453,7 +453,7 @@
   {
     "id": "10041",
     "category": "Bruleur de graisse",
-    "productName": "L-carnitine 100.000 Liquid 500ml cerise",
+    "productName": "L-carnitine 100.000 Liquid - cerise",
     "weight": "500 ml",
     "consumerPrice": 56,
     "stock": 1,
@@ -464,7 +464,7 @@
   {
     "id": "10042",
     "category": "Bruleur de graisse",
-    "productName": "L-carnitine 100.000 Liquid 500ml pomme",
+    "productName": "L-carnitine 100.000 Liquid - pomme",
     "weight": "500 ml",
     "consumerPrice": 56,
     "stock": 2,
@@ -475,7 +475,7 @@
   {
     "id": "10043",
     "category": "Bruleur de graisse",
-    "productName": "L-Carnitine 35.000mg + Chrome concentrate 500ml orange",
+    "productName": "L-Carnitine 35.000mg + Chrome concentrate - orange",
     "weight": "500 ml",
     "consumerPrice": 31,
     "stock": 2,
@@ -486,7 +486,7 @@
   {
     "id": "10044",
     "category": "Bruleur de graisse",
-    "productName": "L-Carnitine + Chrome 60 caps (for her)",
+    "productName": "L-Carnitine + Chrome (for her)",
     "weight": "60 caps",
     "consumerPrice": 25,
     "stock": 0,
@@ -497,7 +497,7 @@
   {
     "id": "10045",
     "category": "Bruleur de graisse",
-    "productName": "Thermo Drine Liquid 500ml pamplemousse",
+    "productName": "Thermo Drine Liquid - pamplemousse",
     "weight": "500 ml",
     "consumerPrice": 30,
     "stock": 2,
@@ -508,7 +508,7 @@
   {
     "id": "10046",
     "category": "TST Boosters",
-    "productName": "Tribooster 120 tabs",
+    "productName": "Tribooster",
     "weight": "120 tbl",
     "consumerPrice": 52,
     "stock": 0,
@@ -519,7 +519,7 @@
   {
     "id": "10047",
     "category": "TST Boosters",
-    "productName": "Tribulus Maximus 1500mg 90 tbl",
+    "productName": "Tribulus Maximus 1500mg",
     "weight": "90 tbl",
     "consumerPrice": 35,
     "stock": 0,
@@ -530,7 +530,7 @@
   {
     "id": "10048",
     "category": "TST Boosters",
-    "productName": "TST+GH 300g orange",
+    "productName": "TST+GH - orange",
     "weight": "300 g",
     "consumerPrice": 53,
     "stock": 0,
@@ -541,7 +541,7 @@
   {
     "id": "10049",
     "category": "Protection des articulations",
-    "productName": "Arthro Forte 340g black currant",
+    "productName": "Arthro Forte - black currant",
     "weight": "340 g",
     "consumerPrice": 84,
     "stock": 2,
@@ -552,7 +552,7 @@
   {
     "id": "10050",
     "category": "Protection des articulations",
-    "productName": "Arthro Forte 340g tropical fruit",
+    "productName": "Arthro Forte - tropical fruit",
     "weight": "340 g",
     "consumerPrice": 84,
     "stock": 2,
@@ -563,7 +563,7 @@
   {
     "id": "10051",
     "category": "Protection des articulations",
-    "productName": "Chondroitin Glucosamine 60 caps",
+    "productName": "Chondroitin Glucosamine",
     "weight": "60 caps",
     "consumerPrice": 20,
     "stock": 0,
@@ -574,7 +574,7 @@
   {
     "id": "10052",
     "category": "Protection des articulations",
-    "productName": "MSM + Vitamin C 150g",
+    "productName": "MSM + Vitamin C",
     "weight": "150 g",
     "consumerPrice": 19,
     "stock": 1,
@@ -585,7 +585,7 @@
   {
     "id": "10053",
     "category": "Collagène",
-    "productName": "Clear Collagen Professional 350g Thé glacé aux peches",
+    "productName": "Clear Collagen Professional - thé glacé aux peches",
     "weight": "350 g",
     "consumerPrice": 52,
     "stock": 1,
@@ -596,7 +596,7 @@
   {
     "id": "10054",
     "category": "Collagène",
-    "productName": "Clear Collagen Professional 350g rose-Grenade",
+    "productName": "Clear Collagen Professional - rose-grenade",
     "weight": "350 g",
     "consumerPrice": 52,
     "stock": 0,
@@ -607,7 +607,7 @@
   {
     "id": "10055",
     "category": "Vitamins",
-    "productName": "Multi Mineral Complex 100 tbl",
+    "productName": "Multi Mineral Complex",
     "weight": "100 tbl",
     "consumerPrice": 21,
     "stock": 3,
@@ -629,7 +629,7 @@
   {
     "id": "10057",
     "category": "Vitamins",
-    "productName": "Vitamin C 1000 250 tbl",
+    "productName": "Vitamin C 1000",
     "weight": "250 tbl",
     "consumerPrice": 40,
     "stock": 2,
@@ -640,8 +640,8 @@
   {
     "id": "10058",
     "category": "Collections saines",
-    "productName": "Rice Pudding 1000g",
-    "weight": "100g",
+    "productName": "Rice Pudding",
+    "weight": "1000g",
     "consumerPrice": 28,
     "stock": 0,
     "description": "Pourquoi recommandons-nous le produit Rice Pudding de BioTechUSA ?\nSans sucre*\nFaible teneur en matières grasses*\nSans gluten*\nVégétalien*\nEntièrement naturel*\nUne préparation rapide et facile sans cuisson\nLe BioTechUSA Instant Rice Pudding est un pouding au riz végétalien à préparation rapide et polyvalente, dont la texture rappelle celle d'une crème pâtissière. Il est idéal pour un brunch, une collation ou même pour un repas de pré-entraînement ! Ce Rice Pudding instantané est une poudre de pouding au riz non aromatisée, végétalienne et entièrement naturelle, qui ne nécessite pas de cuisson. Vous pouvez le préparer salé, sucré, avec des fruits de saison, avec des graines oléagineuses, du beurre de cacahuète simple ou croquant. Si vous souhaitez augmenter la teneur en fibres, vous pouvez le mélanger avec Fiber Mix ou l'enrichir avec des protéines, et pour l'aromatiser, n'hésitez pas à choisir parmi les gouttes aromatisées Zero Drops ! Consommez-en à tout moment de la journée, par exemple mélangé à vos fruits préférés ! Vous pouvez le consommer seul, parfumé à votre goût, ou dans les gâteaux ou les pâtisseries : n'hésitez pas à l'utiliser comme base pour vos recettes préférées !**\n\n*Valable pour le produit préparé conformément au conseil d'utilisation proposé\n\n**Si le produit n'est pas préparé conformément au conseil d'utilisation, sa valeur nutritionnelle peut varier !\n\nSans gluten, conformément à la réglementation de l’Union européenne.\nSans sucres : < 0,5 g/100 g de boisson prête à la consommation.\nFaible teneur en matières grasses : < 3 g/100 g de boisson prête à la consommation.\nSans lactose : <0,1 g lactose/100 g de produit prêt à consommer.\n\nÀ qui recommandons-nous BioTechUSA Rice Pudding ?\nAux amoureux des poudings\nÀ celles et ceux qui recherchent un pouding sans sucre et sans gluten\nÀ celles et ceux qui recherchent un pouding instantané sans cuisson\nÀ celles et ceux qui recherchent un pouding rapide et facile à préparer\nÀ tous ceux qui souhaitent aromatiser eux-mêmes leur pouding\n\nComment prendre le produit Rice Pudding BioTechUSA ?\nMélangez 1 dose de poudre (40 g = 4 cuillères à soupe bombées) à 150-200 ml d’eau chaude, puis laissez reposer 1 ou 2 minutes ! Consommez-en à tout moment de la journée.\nAVERTISSEMENTS: La consommation du produit ne remplace pas une alimentation variée, équilibrée et un mode de vie sain.\n\nIngrédients\nFarine de riz instantanée 100%.\nFabriqué dans une usine qui utilise du lait, des oeufs, du gluten, du soja, des cacahuètes, des arachides, du céléri, des poissons, des crustacés, des mollusques et du dioxyde de soufre!\n\nQuelle est la composition du produit BioTechUSA Rice Pudding ?\n1 dose: 40 g / Nombre des doses dans le produit: 75\npour 100 g de poudre\nAR*(100 g)\n1 dose1\n\nÉnergie\n1550 kJ/365 kcal\n18%\n620 kJ/146 kcal\n\nLipides\n1,4 g\n2%\n0,6 g\n- dont acides gras saturés\n0,2 g\n1%\n0,1 g\n\nGlucides\n81 g\n31%\n32 g\n- dont sucres\n<0,5 g\n<1%\n<0,5 g\n\nProtéines\n6,0 g\n12%\n2,4 g\n\nSel\n0 g\n0%\n0 g\n\n1 (40 g de poudre) préparée selon le conseils d'utilisation.\n*Apport de référence pour un adulte-type",
@@ -651,7 +651,7 @@
   {
     "id": "10059",
     "category": "Protéines",
-    "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - chocolat-beurre de noisette",
+    "productName": "Iso Whey Zero poudre de protéine isolat - chocolat-beurre de noisette",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -662,7 +662,7 @@
   {
     "id": "10060",
     "category": "Protéines",
-    "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - fraise",
+    "productName": "Iso Whey Zero poudre de protéine isolat - fraise",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -673,7 +673,7 @@
   {
     "id": "10061",
     "category": "Protéines",
-    "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - chocolate",
+    "productName": "Iso Whey Zero poudre de protéine isolat - chocolate",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -684,7 +684,7 @@
   {
     "id": "10062",
     "category": "Protéines",
-    "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - vanille bourbon",
+    "productName": "Iso Whey Zero poudre de protéine isolat - vanille bourbon",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -695,7 +695,7 @@
   {
     "id": "10063",
     "category": "Protéines",
-    "productName": "Iso Whey Zero poudre de protéine isolat - 25 g - black biscuit",
+    "productName": "Iso Whey Zero poudre de protéine isolat - black biscuit",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -706,7 +706,7 @@
   {
     "id": "10064",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO poudre d'acide aminé - 9 g - pasteque",
+    "productName": "BCAA ZERO poudre d'acide aminé - pasteque",
     "weight": "9g",
     "consumerPrice": 3,
     "stock": 0,
@@ -717,7 +717,7 @@
   {
     "id": "10065",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO poudre d'acide aminé - 9 g - pêche thé glacé",
+    "productName": "BCAA ZERO poudre d'acide aminé - pêche thé glacé",
     "weight": "9g",
     "consumerPrice": 3,
     "stock": 0,
@@ -728,7 +728,7 @@
   {
     "id": "10066",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO poudre d'acide aminé - 9 g - ananas-mangue",
+    "productName": "BCAA ZERO poudre d'acide aminé - ananas-mangue",
     "weight": "9g",
     "consumerPrice": 3,
     "stock": 0,
@@ -739,7 +739,7 @@
   {
     "id": "10067",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO poudre d'acide aminé - 9 g - orange",
+    "productName": "BCAA ZERO poudre d'acide aminé - orange",
     "weight": "9g",
     "consumerPrice": 3,
     "stock": 0,
@@ -750,7 +750,7 @@
   {
     "id": "10068",
     "category": "Acides Aminés",
-    "productName": "BCAA ZERO poudre d'acide aminé - 9 g - citron thé glacé",
+    "productName": "BCAA ZERO poudre d'acide aminé - citron thé glacé",
     "weight": "9g",
     "consumerPrice": 3,
     "stock": 0,
@@ -761,7 +761,7 @@
   {
     "id": "10069",
     "category": "Barres et boissons",
-    "productName": "Zero Bar protéine bar - 50 g - double chocolate",
+    "productName": "Zero Bar protéine bar - double chocolate",
     "weight": "50g",
     "consumerPrice": 3.5,
     "stock": 0,
@@ -772,7 +772,7 @@
   {
     "id": "10070",
     "category": "Barres et boissons",
-    "productName": "Barre protéinée Protein Dessert Bar - 50g - black biscuit",
+    "productName": "Barre protéinée Protein Dessert Bar - black biscuit",
     "weight": "50g",
     "consumerPrice": 3.5,
     "stock": 10,
@@ -783,7 +783,7 @@
   {
     "id": "10071",
     "category": "Barres et boissons",
-    "productName": "OAT & Nuts - 70g - noix de pecan",
+    "productName": "OAT & Nuts - noix de pecan",
     "weight": "70g",
     "consumerPrice": 3,
     "stock": 0,
@@ -794,8 +794,8 @@
   {
     "id": "10072",
     "category": "Shakers",
-    "productName": "Wave Shaker - 600 ml - vert",
-    "weight": "",
+    "productName": "Wave Shaker - vert",
+    "weight": "600 ml",
     "consumerPrice": 6,
     "stock": 7,
     "description": "Shaker de 600 ml; en couleur vert; cyan; magenta; noir; transparent.\nCapacité de remplissage de 750ml/17oz (830ml/28oz jusqu’au bord)\nIdeal pour tous les types de boissons à mélanger\nPas de fuites d'eau; bouchon et couvercle vissés\nGrille incurvée pour éviter les grumeaux\nEchelle graduée en ml et en oz\nFabriqué en polypropylènePP de haute qualité\nIncassable; lavable au lave-vaisselle; micro-ondable et compatible avec le refrigerateur.\nSans BPA; plastique NON toxique\nConforme aux normes alimentaires\nPlastique fabriqué en Europe\n\nTECHNOLOGIE\nEasy Twist\n\nShaker préféré en Europe devient encore meileur. Nous avons complètement repensé les fermetures à vissage de nos de nos shakers et nous les avons rendu plus que jamais faciles à utiliser. Le petit bouchon et grand couvercle sont à visser tous les deux; ce qui signifie „pas de déversement accidentel dans votre sac de sport à cause de couvercles ou bouchons qui sautent”. Essayez l'un de nos nouveaux shakers et sentez vous-même la différence!\n\n100% anti-fuites\nLors de la fabrication du bochon et du couvercle nous avons utilisé un type de plastique plus souple. Le résultat est un ajustement parfait entre le bouchon à vis; le couvercle et la bouteille. Cette innovation unique empêche complètement les fuites de liquide.\n\nAucune fuite d'eau garanti!\nSHAKER PLUS EFFICACEMENT\n\nNous avons développé une grille incurvée; ce qui autorise une capaciter à mélanger supèrieure. La plus grande efficacité du shaker est due à la grande surface de la grille qui autorise donc une vitesse plus élevée du passage du liquide à travers la grille.\n\nBOUCHON ET COUVERCLE NE SONT PAS LIES\nIl est très agréable et facile de boire dans nos shakers. Le bouchon n'est pas connecté par une autre pièce en plastique au couvercle. Cela empêche de se mette le bouchon dans le nez ou grattez le front avec quand vous buvez.",
@@ -805,8 +805,8 @@
   {
     "id": "10073",
     "category": "Shakers",
-    "productName": "Wave Shaker - 600 ml - cyan",
-    "weight": "",
+    "productName": "Wave Shaker - cyan",
+    "weight": "600ml",
     "consumerPrice": 6,
     "stock": 8,
     "description": "Shaker de 600 ml; en couleur vert; cyan; magenta; noir; transparent.\nCapacité de remplissage de 750ml/17oz (830ml/28oz jusqu’au bord)\nIdeal pour tous les types de boissons à mélanger\nPas de fuites d'eau; bouchon et couvercle vissés\nGrille incurvée pour éviter les grumeaux\nEchelle graduée en ml et en oz\nFabriqué en polypropylènePP de haute qualité\nIncassable; lavable au lave-vaisselle; micro-ondable et compatible avec le refrigerateur.\nSans BPA; plastique NON toxique\nConforme aux normes alimentaires\nPlastique fabriqué en Europe\n\nTECHNOLOGIE\nEasy Twist\n\nShaker préféré en Europe devient encore meileur. Nous avons complètement repensé les fermetures à vissage de nos de nos shakers et nous les avons rendu plus que jamais faciles à utiliser. Le petit bouchon et grand couvercle sont à visser tous les deux; ce qui signifie „pas de déversement accidentel dans votre sac de sport à cause de couvercles ou bouchons qui sautent”. Essayez l'un de nos nouveaux shakers et sentez vous-même la différence!\n\n100% anti-fuites\nLors de la fabrication du bochon et du couvercle nous avons utilisé un type de plastique plus souple. Le résultat est un ajustement parfait entre le bouchon à vis; le couvercle et la bouteille. Cette innovation unique empêche complètement les fuites de liquide.\n\nAucune fuite d'eau garanti!\nSHAKER PLUS EFFICACEMENT\n\nNous avons développé une grille incurvée; ce qui autorise une capaciter à mélanger supèrieure. La plus grande efficacité du shaker est due à la grande surface de la grille qui autorise donc une vitesse plus élevée du passage du liquide à travers la grille.\n\nBOUCHON ET COUVERCLE NE SONT PAS LIES\nIl est très agréable et facile de boire dans nos shakers. Le bouchon n'est pas connecté par une autre pièce en plastique au couvercle. Cela empêche de se mette le bouchon dans le nez ou grattez le front avec quand vous buvez.",
@@ -816,8 +816,8 @@
   {
     "id": "10074",
     "category": "Shakers",
-    "productName": "Wave Shaker - 600 ml - noir",
-    "weight": "",
+    "productName": "Wave Shaker - noir",
+    "weight": "600 ml",
     "consumerPrice": 6,
     "stock": 6,
     "description": "Shaker de 600 ml; en couleur vert; cyan; magenta; noir; transparent.\nCapacité de remplissage de 750ml/17oz (830ml/28oz jusqu’au bord)\nIdeal pour tous les types de boissons à mélanger\nPas de fuites d'eau; bouchon et couvercle vissés\nGrille incurvée pour éviter les grumeaux\nEchelle graduée en ml et en oz\nFabriqué en polypropylènePP de haute qualité\nIncassable; lavable au lave-vaisselle; micro-ondable et compatible avec le refrigerateur.\nSans BPA; plastique NON toxique\nConforme aux normes alimentaires\nPlastique fabriqué en Europe\n\nTECHNOLOGIE\nEasy Twist\n\nShaker préféré en Europe devient encore meileur. Nous avons complètement repensé les fermetures à vissage de nos de nos shakers et nous les avons rendu plus que jamais faciles à utiliser. Le petit bouchon et grand couvercle sont à visser tous les deux; ce qui signifie „pas de déversement accidentel dans votre sac de sport à cause de couvercles ou bouchons qui sautent”. Essayez l'un de nos nouveaux shakers et sentez vous-même la différence!\n\n100% anti-fuites\nLors de la fabrication du bochon et du couvercle nous avons utilisé un type de plastique plus souple. Le résultat est un ajustement parfait entre le bouchon à vis; le couvercle et la bouteille. Cette innovation unique empêche complètement les fuites de liquide.\n\nAucune fuite d'eau garanti!\nSHAKER PLUS EFFICACEMENT\n\nNous avons développé une grille incurvée; ce qui autorise une capaciter à mélanger supèrieure. La plus grande efficacité du shaker est due à la grande surface de la grille qui autorise donc une vitesse plus élevée du passage du liquide à travers la grille.\n\nBOUCHON ET COUVERCLE NE SONT PAS LIES\nIl est très agréable et facile de boire dans nos shakers. Le bouchon n'est pas connecté par une autre pièce en plastique au couvercle. Cela empêche de se mette le bouchon dans le nez ou grattez le front avec quand vous buvez.",
@@ -827,7 +827,7 @@
   {
     "id": "10075",
     "category": "Protéines",
-    "productName": "100% Pure Whey 28g - vanille",
+    "productName": "100% Pure Whey - vanille",
     "weight": "28g",
     "consumerPrice": 3,
     "stock": 0,
@@ -838,7 +838,7 @@
   {
     "id": "10076",
     "category": "Protéines",
-    "productName": "100% Pure Whey 28g - chocolat",
+    "productName": "100% Pure Whey - chocolat",
     "weight": "28g",
     "consumerPrice": 3,
     "stock": 0,
@@ -849,7 +849,7 @@
   {
     "id": "10077",
     "category": "Protéines",
-    "productName": "100% Pure Whey 28g - fraise",
+    "productName": "100% Pure Whey - fraise",
     "weight": "28g",
     "consumerPrice": 3,
     "stock": 0,
@@ -860,7 +860,7 @@
   {
     "id": "10078",
     "category": "Protéines",
-    "productName": "100% Pure Whey 28g - chocolat-beurre de noisette",
+    "productName": "100% Pure Whey - chocolat-beurre de noisette",
     "weight": "28g",
     "consumerPrice": 3,
     "stock": 0,
@@ -871,7 +871,7 @@
   {
     "id": "10079",
     "category": "Protéines",
-    "productName": "100% Pure Whey 28g - black biscuit",
+    "productName": "100% Pure Whey - black biscuit",
     "weight": "28g",
     "consumerPrice": 3,
     "stock": 0,
@@ -882,7 +882,7 @@
   {
     "id": "10080",
     "category": "Barres et boissons",
-    "productName": "Protein Bar 70g - double chocolat",
+    "productName": "Protein Bar - double chocolat",
     "weight": "70g",
     "consumerPrice": 4.5,
     "stock": 58,
@@ -893,7 +893,7 @@
   {
     "id": "10081",
     "category": "Créatine",
-    "productName": "CreaTor 120 caps",
+    "productName": "CreaTor",
     "weight": "120 caps",
     "consumerPrice": 42,
     "stock": 10,
@@ -904,7 +904,7 @@
   {
     "id": "10082",
     "category": "Protéines",
-    "productName": "Iso whey zero - 25g - chocolat blanc",
+    "productName": "Iso whey zero - chocolat blanc",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -915,7 +915,7 @@
   {
     "id": "10083",
     "category": "Protéines",
-    "productName": "Iso whey zero - 25g - pistache",
+    "productName": "Iso whey zero - pistache",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -926,7 +926,7 @@
   {
     "id": "10084",
     "category": "Protéines",
-    "productName": "Iso whey zero - 25g - chocolat noir",
+    "productName": "Iso whey zero - chocolat noir",
     "weight": "25g",
     "consumerPrice": 3,
     "stock": 0,
@@ -937,7 +937,7 @@
   {
     "id": "10085",
     "category": "Protéines",
-    "productName": "100 % Pure Whey - 28g - Tarte aux pommes à la cannelle",
+    "productName": "100 % Pure Whey - Tarte aux pommes à la cannelle",
     "weight": "28g",
     "consumerPrice": 42,
     "stock": 0,
