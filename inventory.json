@@ -13,7 +13,7 @@
   {
     "id": "10001",
     "category": "Collections saines",
-    "productName": "Zero Syrup 320ml fraise",
+    "productName": "Zero Syrup - fraise",
     "weight": "320 ml",
     "consumerPrice": 14,
     "stock": 0,
@@ -24,7 +24,7 @@
   {
     "id": "10002",
     "category": "Collections saines",
-    "productName": "Zero Syrup 320ml chocolate",
+    "productName": "Zero Syrup - chocolate",
     "weight": "320 ml",
     "consumerPrice": 14,
     "stock": 2,
@@ -35,7 +35,7 @@
   {
     "id": "10003",
     "category": "Barres et boissons",
-    "productName": "Go Energy Bar 40g orange avec chocolat noir",
+    "productName": "Go Energy Bar - orange avec chocolat noir",
     "weight": "40 g",
     "consumerPrice": 2.6,
     "stock": 50,
@@ -46,7 +46,7 @@
   {
     "id": "10004",
     "category": "Barres et boissons",
-    "productName": "Go Energy Bar 40g yaourt à la fraise",
+    "productName": "Go Energy Bar - yaourt à la fraise",
     "weight": "40 g",
     "consumerPrice": 2.6,
     "stock": 50,
@@ -57,7 +57,7 @@
   {
     "id": "10005",
     "category": "Barres et boissons",
-    "productName": "Protein Bar 70g fraise",
+    "productName": "Protein Bar - fraise",
     "weight": "70 g",
     "consumerPrice": 4.5,
     "stock": 38,
@@ -68,7 +68,7 @@
   {
     "id": "10006",
     "category": "Protéines",
-    "productName": "100% Pure Whey 1000g chocolate",
+    "productName": "100% Pure Whey - chocolate",
     "weight": "1000 g",
     "consumerPrice": 81,
     "stock": 5,
@@ -79,7 +79,7 @@
   {
     "id": "10007",
     "category": "Protéines",
-    "productName": "100% Pure Whey 1000g fraise",
+    "productName": "100% Pure Whey - fraise",
     "weight": "1000 g",
     "consumerPrice": 81,
     "stock": 4,
@@ -90,7 +90,7 @@
   {
     "id": "10008",
     "category": "Protéines",
-    "productName": "100% Pure Whey 1000g vanille bourbon",
+    "productName": "100% Pure Whey - vanille bourbon",
     "weight": "1000 g",
     "consumerPrice": 81,
     "stock": 2,
@@ -101,7 +101,7 @@
   {
     "id": "10009",
     "category": "Protéines",
-    "productName": "100% Pure Whey 2270g chocolate",
+    "productName": "100% Pure Whey - chocolate",
     "weight": "2270 g",
     "consumerPrice": 157,
     "stock": 5,
@@ -112,7 +112,7 @@
   {
     "id": "10010",
     "category": "Protéines",
-    "productName": "100% Pure Whey 2270g fraise",
+    "productName": "100% Pure Whey - fraise",
     "weight": "2270 g",
     "consumerPrice": 157,
     "stock": 3,
@@ -123,7 +123,7 @@
   {
     "id": "10011",
     "category": "Protéines",
-    "productName": "100% Pure Whey 2270g vanille bourbon",
+    "productName": "100% Pure Whey - vanille bourbon",
     "weight": "2270 g",
     "consumerPrice": 157,
     "stock": 1,
@@ -134,7 +134,7 @@
   {
     "id": "10012",
     "category": "Protéines",
-    "productName": "100% Pure Whey 4000g chocolate",
+    "productName": "100% Pure Whey - chocolate",
     "weight": "4000 g",
     "consumerPrice": 266,
     "stock": 2,
@@ -145,7 +145,7 @@
   {
     "id": "10013",
     "category": "Protéines",
-    "productName": "100% Pure Whey 4000g fraise",
+    "productName": "100% Pure Whey - fraise",
     "weight": "4000 g",
     "consumerPrice": 266,
     "stock": 2,
@@ -156,7 +156,7 @@
   {
     "id": "10014",
     "category": "Protéines",
-    "productName": "100% Pure Whey 4000g vanille bourbon",
+    "productName": "100% Pure Whey - vanille bourbon",
     "weight": "4000 g",
     "consumerPrice": 266,
     "stock": 1,
@@ -167,7 +167,7 @@
   {
     "id": "10015",
     "category": "Protéines",
-    "productName": "Beef Protein 1816g fraise",
+    "productName": "Beef Protein - fraise",
     "weight": "1816 g",
     "consumerPrice": 126,
     "stock": 0,
@@ -178,7 +178,7 @@
   {
     "id": "10016",
     "category": "Protéines",
-    "productName": "Hydro Whey Zero 1816g chocolat",
+    "productName": "Hydro Whey Zero - chocolat",
     "weight": "1816 g",
     "consumerPrice": 168,
     "stock": 2,
@@ -189,7 +189,7 @@
   {
     "id": "10017",
     "category": "Protéines",
-    "productName": "Iso Whey Zero 2270g chocolat",
+    "productName": "Iso Whey Zero - chocolat",
     "weight": "2270 g",
     "consumerPrice": 185,
     "stock": 2,
@@ -200,7 +200,7 @@
   {
     "id": "10018",
     "category": "Protéines",
-    "productName": "Iso Whey Zero 2270g fraise",
+    "productName": "Iso Whey Zero - fraise",
     "weight": "2270 g",
     "consumerPrice": 185,
     "stock": 1,
@@ -211,7 +211,7 @@
   {
     "id": "10019",
     "category": "Protéines",
-    "productName": "Iso Whey Zero 2270g vanille",
+    "productName": "Iso Whey Zero - vanille",
     "weight": "2270 g",
     "consumerPrice": 185,
     "stock": 1,
@@ -222,7 +222,7 @@
   {
     "id": "10020",
     "category": "Protéines",
-    "productName": "Protein Power 1000g sac de banane aux fraises",
+    "productName": "Protein Power - fraise-banane",
     "weight": "1000 g",
     "consumerPrice": 53,
     "stock": 0,
@@ -233,7 +233,7 @@
   {
     "id": "10021",
     "category": "Protéines",
-    "productName": "Protein power 4000g fraise-banane",
+    "productName": "Protein power - fraise-banane",
     "weight": "4000 g",
     "consumerPrice": 177,
     "stock": 0,
@@ -244,7 +244,7 @@
   {
     "id": "10022",
     "category": "Glucides",
-    "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml fruits de bois",
+    "productName": "Multi Hypotonic Drink  concentrate (1:65) - fruits de bois",
     "weight": "1000 ml",
     "consumerPrice": 46,
     "stock": 1,
@@ -255,7 +255,7 @@
   {
     "id": "10023",
     "category": "Glucides",
-    "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml mojito",
+    "productName": "Multi Hypotonic Drink  concentrate (1:65) - mojito",
     "weight": "1000 ml",
     "consumerPrice": 46,
     "stock": 1,
@@ -266,7 +266,7 @@
   {
     "id": "10024",
     "category": "Glucides",
-    "productName": "Multi Hypotonic Drink  concentrate (1:65) 1000ml orange",
+    "productName": "Multi Hypotonic Drink  concentrate (1:65) - orange",
     "weight": "1000 ml",
     "consumerPrice": 46,
     "stock": 1,
