@@ -1128,7 +1128,7 @@
     "weight": "1600 ml",
     "consumerPrice": 14,
     "stock": 2,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1139,7 +1139,7 @@
     "weight": "L",
     "consumerPrice": 30,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1150,7 +1150,7 @@
     "weight": "L - taille: 85-95 cm",
     "consumerPrice": 27,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1161,7 +1161,7 @@
     "weight": "XL - taille: 95-110 cm",
     "consumerPrice": 27,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1172,7 +1172,7 @@
     "weight": "L",
     "consumerPrice": 18,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1183,7 +1183,7 @@
     "weight": "L",
     "consumerPrice": 17,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1194,7 +1194,7 @@
     "weight": "M",
     "consumerPrice": 17,
     "stock": 2,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1205,7 +1205,7 @@
     "weight": "L",
     "consumerPrice": 17,
     "stock": 3,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1216,7 +1216,7 @@
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1227,7 +1227,7 @@
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1238,7 +1238,7 @@
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1249,7 +1249,7 @@
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1260,7 +1260,7 @@
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1271,7 +1271,7 @@
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1282,7 +1282,7 @@
     "weight": "M",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1293,7 +1293,7 @@
     "weight": "M",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   },
@@ -1304,7 +1304,7 @@
     "weight": "M",
     "consumerPrice": 12,
     "stock": 1,
-    "description": "MISSING",
+    "description": "",
     "isHidden": false,
     "brand": "MISSING"
   }
