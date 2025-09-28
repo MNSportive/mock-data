@@ -1127,9 +1127,9 @@
     "productName": "Bouteille d'eau de sport - orange",
     "weight": "1600 ml",
     "consumerPrice": 14,
-    "stock": 3,
+    "stock": 2,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1140,7 +1140,7 @@
     "consumerPrice": 30,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1151,7 +1151,7 @@
     "consumerPrice": 27,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1162,7 +1162,7 @@
     "consumerPrice": 27,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1173,7 +1173,7 @@
     "consumerPrice": 18,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1184,7 +1184,7 @@
     "consumerPrice": 17,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1195,7 +1195,7 @@
     "consumerPrice": 17,
     "stock": 2,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1206,7 +1206,7 @@
     "consumerPrice": 17,
     "stock": 3,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1217,7 +1217,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1228,7 +1228,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1239,7 +1239,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1250,7 +1250,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1261,7 +1261,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1272,7 +1272,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1283,7 +1283,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1294,7 +1294,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   },
   {
@@ -1305,7 +1305,7 @@
     "consumerPrice": 12,
     "stock": 1,
     "description": "MISSING",
-    "isHidden": true,
+    "isHidden": false,
     "brand": "MISSING"
   }
 ]
