@@ -1135,7 +1135,7 @@
   {
     "id": "10103",
     "category": "Accessoire de sport",
-    "productName": "Ceinture de musculation - camouflage (noir-gris-blanc)",
+    "productName": "Ceinture de musculation - camouflage (noir-gris-blanc) - L",
     "weight": "L",
     "consumerPrice": 30,
     "stock": 1,
@@ -1146,7 +1146,7 @@
   {
     "id": "10104",
     "category": "Accessoire de sport",
-    "productName": "Ceinture de musculation - noir",
+    "productName": "Ceinture de musculation - noir - L 85-95 cm",
     "weight": "L - taille: 85-95 cm",
     "consumerPrice": 27,
     "stock": 1,
@@ -1157,7 +1157,7 @@
   {
     "id": "10105",
     "category": "Accessoire de sport",
-    "productName": "Ceinture de musculation - noir",
+    "productName": "Ceinture de musculation - noir - XL 95-110cm",
     "weight": "XL - taille: 95-110 cm",
     "consumerPrice": 27,
     "stock": 1,
@@ -1168,7 +1168,7 @@
   {
     "id": "10106",
     "category": "Accessoire de sport",
-    "productName": "Manchons de compression - noir",
+    "productName": "Manchons de compression - noir - L",
     "weight": "L",
     "consumerPrice": 18,
     "stock": 1,
@@ -1179,7 +1179,7 @@
   {
     "id": "10107",
     "category": "Accessoire de sport",
-    "productName": "Poignées de gym - noir",
+    "productName": "Poignées de gym - noir - L",
     "weight": "L",
     "consumerPrice": 17,
     "stock": 0,
@@ -1190,7 +1190,7 @@
   {
     "id": "10108",
     "category": "Accessoire de sport",
-    "productName": "Gants de musculation - homme - noir",
+    "productName": "Gants de musculation - homme - noir - M",
     "weight": "M",
     "consumerPrice": 17,
     "stock": 2,
@@ -1201,7 +1201,7 @@
   {
     "id": "10109",
     "category": "Accessoire de sport",
-    "productName": "Gants de musculation - homme - noir",
+    "productName": "Gants de musculation - homme - noir - L",
     "weight": "L",
     "consumerPrice": 17,
     "stock": 3,
@@ -1212,7 +1212,7 @@
   {
     "id": "10110",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - gris",
+    "productName": "Débardeur slim fit pour homme - gris - L",
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
@@ -1223,7 +1223,7 @@
   {
     "id": "10111",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - blanc",
+    "productName": "Débardeur slim fit pour homme - blanc - L",
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
@@ -1234,7 +1234,7 @@
   {
     "id": "10112",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - noir",
+    "productName": "Débardeur slim fit pour homme - noir - L",
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
@@ -1245,7 +1245,7 @@
   {
     "id": "10113",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - noir-gris",
+    "productName": "Débardeur slim fit pour homme - noir-gris - L",
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
@@ -1256,7 +1256,7 @@
   {
     "id": "10114",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - blanc-gris",
+    "productName": "Débardeur slim fit pour homme - blanc-gris - L",
     "weight": "L",
     "consumerPrice": 12,
     "stock": 1,
@@ -1267,7 +1267,7 @@
   {
     "id": "10115",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - noir-gris-rouge",
+    "productName": "Débardeur slim fit pour homme - noir-gris-rouge - L",
     "weight": "L",
     "consumerPrice": 12,
     "stock": 0,
@@ -1278,7 +1278,7 @@
   {
     "id": "10116",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - noir-gris",
+    "productName": "Débardeur slim fit pour homme - noir-gris - M",
     "weight": "M",
     "consumerPrice": 12,
     "stock": 1,
@@ -1289,7 +1289,7 @@
   {
     "id": "10117",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - blanc-gris",
+    "productName": "Débardeur slim fit pour homme - blanc-gris - M",
     "weight": "M",
     "consumerPrice": 12,
     "stock": 1,
@@ -1300,7 +1300,7 @@
   {
     "id": "10118",
     "category": "Vêtement",
-    "productName": "Débardeur slim fit pour homme - noir-gris-rouge",
+    "productName": "Débardeur slim fit pour homme - noir-gris-rouge - M",
     "weight": "M",
     "consumerPrice": 12,
     "stock": 0,
