@@ -38,7 +38,7 @@
     "productName": "Go Energy Bar - orange avec chocolat noir",
     "weight": "40 g",
     "consumerPrice": 2.6,
-    "stock": 49,
+    "stock": 48,
     "description": "Go Energy\nAvec ses glucides mixtes; GO Energy Bar est une solution idéale pour les particuliers soucieux de leur santé et qui sont à la recherche d'une recharge d'énergie pendant l'entraînement.\nA consommer pendant l’entrainement ou toute autre activité physique.\n\nOrange-chocolat\nGelée d’orange 25% [sirop de glucose, sucre, concentré d’orange 4%, agent gélifiant (pectine), correcteurs d’acidité (acide citrique, citrate de sodium), colorant (carotènes), arôme], enrobage au goût de cacao foncée 25% [sucre, graisses entièrement hydrogénées (coco, huile de tournesol), cacao maigre en poudre 16%, émulsifiant (lécithines), arôme], sirop de glucose, préparation de céréales extrudées (farine de blé entier (glutén), farine de riz, farine de maïs, cacao en poudre, sucre, sel), flocons de soja, dextrose, sirop de fructose, graisse de palme, raisins secs (raisins secs, huile de tournesol), préparation d’écorces d’oranges confites [écorce d’orange, sucre, sirop de glucose-fructose, correcteur d’acidité (acide citrique), conservateur (sorbate de potassium), arôme], L-carnitine-L-tartrate 0,8%, lait écrémé en poudre, cacao maigre en poudre, huile de colza, émulsifiant (lécithines), sel, Vitamine C (L-ascorbique), niacine (nicotinamide), Vitamine E (acétate de DL-alpha-tocophérol), acide pantothénique (D-pantothénate de calcium), Vitamine B6 (chlorhydrate de pyridoxine), riboflavine (le sel de sodium de riboflavine-5’-phosphate), thiamine (mononitrate de thiamine), acide folique (acide pteroilmonoglutamine), biotine (D-biotine), Vitamine B12 (cyanocobalamine), arôme, correcteur d’acidité (acide lactique), chlorure de chrome (III).\nPeut contenir des traces d’arachides, cacahuètes et graines de sésame et œufs.\n\nInformations nutritionnelles (100 g)\n\nÉnergie\n1731 kJ/412 kcal\n\nLipides\n14,4 g\n\n- dont acides gras saturés\n9,2 g\n\nGlucides\n67 g\n\n- dont sucres\n47 g\n\n- dont polyols\n7,6 g\n\nProtéines\n7,6 g\n\nSel\n0,2 g",
     "isHidden": false,
     "brand": "BioTechUSA"
@@ -49,7 +49,7 @@
     "productName": "Go Energy Bar - yaourt à la fraise",
     "weight": "40 g",
     "consumerPrice": 2.6,
-    "stock": 45,
+    "stock": 44,
     "description": "Go Energy\nAvec ses glucides mixtes; GO Energy Bar est une solution idéale pour les particuliers soucieux de leur santé et qui sont à la recherche d'une recharge d'énergie pendant l'entraînement.\nA consommer pendant l’entrainement ou toute autre activité physique.\n\nFraise-yaourt\nGelée de fraise 25% [sirop de glucose, sucre, concentré de fraise 4%, agent gélifiant (pectine), correcteurs d’acidité (acide citrique, citrate de sodium), colorant (anthocyanes), arôme], enrobage 25% [sucre, graisse de palme entièrement hydrogénée, poudre de yaourt (lait) 4%, lactose (lait), émulsifiant (lécithines), correcteur d’acidité (acide citrique), arôme], sirop de glucose, préparation de céréales extrudées (farine de blé entier (glutén), farine de riz, farine de maïs, cacao maigre en poudre, sucre, sel), flocons de soja, dextrose, sirop de fructose, graisse",
     "isHidden": false,
     "brand": "BioTechUSA"
@@ -1039,7 +1039,7 @@
     "productName": "Creatine - Cola",
     "weight": "300g",
     "consumerPrice": 23,
-    "stock": 3,
+    "stock": 2,
     "description": "Description du produit\nPoudre à boire de créatine monohydrate de qualité premium, à excellente solubilité, conçue pour soutenir la performance physique.*\nDisponible en saveurs rafraîchissantes ou en version non aromatisée.\nAllégations nutritionnelles* :\nSans sucre : moins de 0,5 g de sucre / 100 ml dans le produit prêt à consommer préparé avec de l’eau.\nSans matières grasses : moins de 0,5 g de graisses / 100 ml.\nAmélioration des performances physiques : La créatine augmente la performance lors d'efforts intenses et répétés de courte durée.\nEffet bénéfique obtenu avec une consommation quotidienne de 3 g de créatine.\nConseils d’utilisation\nMélangez une portion (3,4 g) dans 300 ml d’eau ou de liquide de votre choix.\nVeuillez peser pour une mesure précise. À consommer immédiatement après préparation.\nPortion journalière recommandée : 1 portion.\nPour un régime personnalisé, consultez un(e) diététicien(ne).\nAvertissement\nÀ conserver hors de portée des jeunes enfants !\nNe remplace pas une alimentation équilibrée et un mode de vie sain.\nNe pas dépasser la dose journalière recommandée.\nInformations allergènes\nProduit fabriqué dans une usine traitant des ingrédients contenant : lait, œufs, gluten, soja, arachides, fruits à coque, poisson et crustacés.\nÀ consommer de préférence avant : Fin du mois indiqué sur l’emballage (mois/année).\nConditions de conservation : Conserver dans un endroit frais et sec, dans son emballage bien refermé.\nIngrédients\nCréatine monohydrate.\nIngrédients actifs pour 3,4 g\nCréatine monohydrate : 3400 mg\ndont créatine : 3000 mg\n",
     "isHidden": false,
     "brand": "PureGold Protein"
@@ -1050,7 +1050,7 @@
     "productName": "Creatine - Mango",
     "weight": "300g",
     "consumerPrice": 23,
-    "stock": 1,
+    "stock": 0,
     "description": "Description du produit\nPoudre à boire de créatine monohydrate de qualité premium, à excellente solubilité, conçue pour soutenir la performance physique.*\nDisponible en saveurs rafraîchissantes ou en version non aromatisée.\nAllégations nutritionnelles* :\nSans sucre : moins de 0,5 g de sucre / 100 ml dans le produit prêt à consommer préparé avec de l’eau.\nSans matières grasses : moins de 0,5 g de graisses / 100 ml.\nAmélioration des performances physiques : La créatine augmente la performance lors d'efforts intenses et répétés de courte durée.\nEffet bénéfique obtenu avec une consommation quotidienne de 3 g de créatine.\nConseils d’utilisation\nMélangez une portion (3,4 g) dans 300 ml d’eau ou de liquide de votre choix.\nVeuillez peser pour une mesure précise. À consommer immédiatement après préparation.\nPortion journalière recommandée : 1 portion.\nPour un régime personnalisé, consultez un(e) diététicien(ne).\nAvertissement\nÀ conserver hors de portée des jeunes enfants !\nNe remplace pas une alimentation équilibrée et un mode de vie sain.\nNe pas dépasser la dose journalière recommandée.\nInformations allergènes\nProduit fabriqué dans une usine traitant des ingrédients contenant : lait, œufs, gluten, soja, arachides, fruits à coque, poisson et crustacés.\nÀ consommer de préférence avant : Fin du mois indiqué sur l’emballage (mois/année).\nConditions de conservation : Conserver dans un endroit frais et sec, dans son emballage bien refermé.\nIngrédients\nCréatine monohydrate.\nIngrédients actifs pour 3,4 g\nCréatine monohydrate : 3400 mg\ndont créatine : 3000 mg\n",
     "isHidden": false,
     "brand": "PureGold Protein"
