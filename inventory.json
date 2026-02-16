@@ -1307,5 +1307,96 @@
     "description": "",
     "isHidden": true,
     "brand": "MISSING"
+  },
+  [
+  {
+    "id": "10119",
+    "category": "Protéines",
+    "productName": "100% Beef protein - Brioche à la cannelle",
+    "weight": "1800g",
+    "consumerPrice": 129,
+    "stock": 6,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "Scitec Nutrition"
+  },
+  {
+    "id": "10120",
+    "category": "Protéines",
+    "productName": "100% Beef protein - Caramel-banane",
+    "weight": "1800g",
+    "consumerPrice": 129,
+    "stock": 6,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "Scitec Nutrition"
+  },
+  {
+    "id": "10121",
+    "category": "Acides Aminés",
+    "productName": "BCAA+ Glutamine Xpress - Pastèque",
+    "weight": "600g",
+    "consumerPrice": 56,
+    "stock": 6,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "Scitec Nutrition"
+  },
+  {
+    "id": "10122",
+    "category": "Collagène",
+    "productName": "Collagen Xpress - Fruit punch",
+    "weight": "475g",
+    "consumerPrice": 69,
+    "stock": 6,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "Scitec Nutrition"
+  },
+  {
+    "id": "10123",
+    "category": "Collagène",
+    "productName": "Collagen Xpress - Ananas",
+    "weight": "475g",
+    "consumerPrice": 69,
+    "stock": 6,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "Scitec Nutrition"
+  },
+  {
+    "id": "10124",
+    "category": "Créatine",
+    "productName": "Creatine - Fruit tropical",
+    "weight": "300g",
+    "consumerPrice": 23,
+    "stock": 5,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "PureGold Protein"
+  },
+  {
+    "id": "10125",
+    "category": "Créatine",
+    "productName": "Creatine - Orange",
+    "weight": "300g",
+    "consumerPrice": 23,
+    "stock": 5,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "PureGold Protein"
+  },
+  {
+    "id": "10126",
+    "category": "Shakers",
+    "productName": "Shaker700 - Bleu marine",
+    "weight": "700ml",
+    "consumerPrice": 6,
+    "stock": 5,
+    "description": "TBD",
+    "isHidden": true,
+    "brand": "Scitec Nutrition"
   }
+]
+
 ]
